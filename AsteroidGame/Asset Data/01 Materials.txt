@@ -1,0 +1,8 @@
+#NAME# mat_Meteor #/NAME# #PATH# Images\Meteor01 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Black_Hole #/NAME# #PATH# Images\Black_Hole #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Earth #/NAME# #PATH# Images\Earth #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Star #/NAME# #PATH# Images\Star #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Plus_One #/NAME# #PATH# Images\Plus One #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Backdrop #/NAME# #PATH# Images\Backdrop #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_EarthExplode01 #/NAME# #PATH# Images\EarthExplode01 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_rainbow #/NAME# #PATH# Images\Rainbow #/PATH# #TYPE# 0 #/TYPE# 

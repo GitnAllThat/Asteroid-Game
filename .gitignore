@@ -1,0 +1,26 @@
+.mgstats
+
+# Ignore all bin directories at any level
+**/bin/
+
+# Ignore all obj directories at any level
+**/obj/
+
+# Visual Studio folders
+.vs/
+
+# User-specific files
+*.user
+
+
+# Publish and deploy output directories
+/publish/
+/out/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+
+
+
